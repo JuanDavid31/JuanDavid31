@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png">
+</p>  
+
+I'm Juan, a fan of tech.
+
 <a href="https://www.linkedin.com/in/juan-david-piza-311352182/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://www.linkedin.com/in/juan-david-piza-311352182/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
