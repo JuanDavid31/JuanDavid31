@@ -2,7 +2,11 @@
   <img src="banner.png">
 </p>  
 
+<br>
+
 I'm Juan, a fan of tech. Loved computers since I was a kid, now I'm very happy to code for a living.  
+
+<br>
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -14,8 +18,12 @@ I'm Juan, a fan of tech. Loved computers since I was a kid, now I'm very happy t
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p  
+  
+<br>
 
 <a href="https://www.linkedin.com/in/juan-david-piza-311352182/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://www.linkedin.com/in/juan-david-piza-311352182/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+<a href="https://www.linkedin.com/in/juan-david-piza-311352182/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>  
+
+<br>
 
 ![Made with love in Colombia](https://madewithlove.now.sh/co?heart=true&colorA=%23990011&colorB=%23000000&template=for-the-badge)
