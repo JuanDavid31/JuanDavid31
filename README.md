@@ -1,10 +1,9 @@
+
 <p align="center">
   <img src="banner.png">
 </p>  
 
 <br>
-
-I'm Juan, a fan of tech. Loved computers since I was a kid, now I'm very happy to code for a living.  
 
 <br>
 
